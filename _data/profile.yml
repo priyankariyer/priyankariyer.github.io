@@ -35,17 +35,16 @@ portrait_caption: >-
 
 education:
 - name: University of Cologne
-  logo: /assets/images/badges/MIT_Social_circle.png
+  logo: /assets/images/badges/UniKoeln.png
   position: >- 
     Department of Mathematics and Natural Sciences <br/>
     Ph.D. Thesis - Self Organization and Emergent Dynamics in Groups of Self-Steering Active Particles (Grade :\ Summa Cum Laude) 
   date: March. 2022 - March. 2026 
-- name: University of Cologne 
-  logo: /assets/images/badges/PKU_red.png
+- name: University of Cologne
+  logo: /assets/images/badges/UniKoeln.png
   position: MSc. Physics 
   date: Oct. 2019 - Nov. 2021
 - name: St. Stephen's College, Delhi
-  logo: /assets/images/badges/PKU_red.png
   position: BSc. Physics 
   date: June. 2016 - May. 2019
 
@@ -54,7 +53,7 @@ experience:
   position: Postdoctoral Fellow
   date: 2026 - Present
 - name: Institute of Advanced Simulation, Forschungszentrum Juelich
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/FZJ.png
   position: Researcher
   date: Oct. 2020 - 2026
 
