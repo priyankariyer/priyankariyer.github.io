@@ -10,6 +10,15 @@
 
 A GitHub Pages (Jekyll) template for personal academic website. Click [here](https://luost26.github.io/academic-homepage/) to see the demo.
 
+## Variants
+
+Explore alternative visual styles in their own repositories.
+
+| Variant | Style | Preview | Links |
+| --- | --- | --- | --- |
+| Frutiger Aero | Vista-inspired frosted glass, glossy icons, and nature imagery. | <img src="assets/images/variants/frutiger-aero.jpg" alt="Frutiger Aero homepage screenshot" width="320"> | [Repository](https://github.com/luost26/academic-homepage-frutiger-aero) · [Live demo](https://luost26.github.io/academic-homepage-frutiger-aero/) |
+| Nostalgia 1990s | Windows 95/98-style silver bevels, native classic icons, and pixel-grid typography. | <img src="assets/images/variants/nostalgia-1990s.jpg" alt="Nostalgia 1990s homepage screenshot" width="320"> | [Repository](https://github.com/luost26/academic-homepage-nostalgia-1990s) · [Live demo](https://luost26.github.io/academic-homepage-nostalgia-1990s/) |
+
 ## User Community
 
 [🏡](https://luost.me/)
@@ -40,6 +49,8 @@ A GitHub Pages (Jekyll) template for personal academic website. Click [here](htt
 [🔬](https://kwen-chen.github.io/)
 [🧑‍🔬](https://shengxiang-lin.github.io/)
 [🗣️](https://henry-h22.github.io/)
+[🍠](https://xingyuliuxyl.com/)
+[:star:](https://melanthera-biflora.github.io/)
 
 :hugs: Feel free to tell us if you are using this template for your website by creating an issue [here](https://github.com/luost26/academic-homepage/issues/new?assignees=&labels=&projects=&template=user-report.md&title=I+am+using+this+template%21).
 
@@ -78,6 +89,7 @@ If you run into **any** issues while using this template, or have suggestions fo
    ```
 
 5. Browse to the displayed URL to see the website.
+
 
 ### Deploying to GitHub Pages
 
