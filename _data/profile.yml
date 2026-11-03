@@ -5,6 +5,7 @@ navbar_name: "Priyanka Iyer"
 positions:
 - name: Postdoctoral Fellow
 - name: John A. Paulson School of Engineering and Applied Sciences, Harvard University
+  logo: /assets/images/badges/Harvard.png
 
 
 email: "priyanka_iyer@seas.harvard.edu"
@@ -45,11 +46,13 @@ education:
   position: MSc. Physics 
   date: Oct. 2019 - Nov. 2021
 - name: St. Stephen's College, Delhi
+  logo: /assets/images/badges/StStephens.png
   position: BSc. Physics 
   date: June. 2016 - May. 2019
 
 experience:
 - name: Harvard University, John A. Paulson School of Engineering and Applied Sciences
+  logo: /assets/images/badges/Harvard.png
   position: Postdoctoral Fellow
   date: 2026 - Present
 - name: Institute of Advanced Simulation, Forschungszentrum Juelich
