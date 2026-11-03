@@ -3,12 +3,11 @@ secondary_name: ""
 navbar_name: "Priyanka Iyer"
 
 positions:
-- name: Researcher 
-- name: Institue of Advanced Simulation, Forschungszentrum Juelich 
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+- name: Postdoctoral Fellow
+- name: John A. Paulson School of Engineering and Applied Sciences, Harvard University
 
 
-email: "priyankariyer@gmail.com"
+email: "priyanka_iyer@seas.harvard.edu"
 # cv_link: link-to-your-cv-file
 gscholar: FcFlNgQAAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: priyankariyer
@@ -22,7 +21,7 @@ github: priyankariyer
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    I am a postdoctoral fellow at the John A. Paulson School of Engineering and Applied Sciences, Harvard University.
   </p>
   <p>
     There exist a wide range of physics problems related to self-organization in biophysics. Using theoretical approaches 
@@ -51,10 +50,13 @@ education:
   date: June. 2016 - May. 2019
 
 experience:
-- name: Institue of Advanced Simulation, Forschungszentrum Juelich 
+- name: Harvard University, John A. Paulson School of Engineering and Applied Sciences
+  position: Postdoctoral Fellow
+  date: 2026 - Present
+- name: Institute of Advanced Simulation, Forschungszentrum Juelich
   logo: /assets/images/badges/PKU_red.png
   position: Researcher
-  date: Oct. 2020 - Present
+  date: Oct. 2020 - 2026
 
 awards:
 - name: Bonn Cologne Garduate School Fellowship 

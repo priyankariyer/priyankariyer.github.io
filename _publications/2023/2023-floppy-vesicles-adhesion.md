@@ -1,16 +1,16 @@
 ---
 title:          "Dynamic shapes of floppy vesicles enclosing active Brownian particles with membrane adhesion"
-date:           2023-01-05 00:01:00 +0800
-selected:       False
+date:           2023-05-01 00:01:00 +0100
+selected:       false
 pub:            "Soft Matter"
 pub_date:       "2023"
 abstract: >-
   We investigate numerically the behavior of active vesicles, where the enclosed self-propelled particles can adhere to the membrane.
-cover:          /assets/images/covers/cover1.jpg
 authors:
-- Priyanka Iyer*
-- Gerhard Gompper
-- Dmitry A. Fedosov
+  - Priyanka Iyer
+  - Gerhard Gompper
+  - Dmitry A. Fedosov
 links:
   Paper: https://pubs.rsc.org/en/content/articlehtml/2023/sm/d3sm00004d
+  PubMed: https://pubmed.ncbi.nlm.nih.gov/37132446/
 ---

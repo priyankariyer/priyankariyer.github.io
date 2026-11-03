@@ -1,0 +1,16 @@
+{% assign recent_posts = site.posts | sort: "date" | reverse | slice: 0, include.limit %}
+
+<div class="my-3 bg-white shadow-sm rounded-xl">
+    <h6 class="p-3 mb-0 border-bottom border-gray"><i class="fas fa-pen-nib"></i> Recent Posts</h6>
+    <div class="px-3 pb-1 small">
+        {% for item in recent_posts %}
+        <div class="py-2 d-flex {% unless forloop.first %}border-top border-gray{% endunless %}">
+            <a class="text-body" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+            <div class="ml-auto pl-3 text-muted no-break"><i>{{ item.date | date: "%b %d, %Y" }}</i></div>
+        </div>
+        {% endfor %}
+        <div class="py-2 border-top border-gray">
+            <a href="{{ '/blog' | relative_url }}">All posts <i class="fas fa-angle-double-right"></i></a>
+        </div>
+    </div>
+</div>
