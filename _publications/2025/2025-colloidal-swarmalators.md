@@ -4,6 +4,7 @@ date:           2025-12-01 00:01:00 +0100
 selected:       true
 pub:            "Nature Communications"
 pub_date:       "16, 10984 (2025)"
+# cover:          /assets/images/covers/2025-colloidal-swarmalators.jpg   # uncomment once the image is added
 abstract: >-
   Feedback-controlled colloids orbiting reference points switch between synchronized clusters, rotating and dispersed states through hydrodynamic coupling.
 authors:

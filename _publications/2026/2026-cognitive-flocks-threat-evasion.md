@@ -5,6 +5,7 @@ selected:       false
 pub_pre:        "Preprint, "
 pub:            "arXiv:2610.07297"
 pub_date:       "2026"
+# cover:          /assets/images/covers/2026-cognitive-flocks-threat-evasion.jpg   # uncomment once the image is added
 abstract: >-
   An inertial spin model with an explicit predator shows nearly linear information propagation and an optimal balance between response strength, speed and damping.
 authors:

@@ -4,6 +4,7 @@ date:           2024-11-20 00:01:00 +0100
 selected:       true
 pub:            "Communications Physics"
 pub_date:       "7, 379 (2024)"
+# cover:          /assets/images/covers/2024-three-way-intersection.jpg   # uncomment once the image is added
 abstract: >-
   Self-organized traffic of goal-directed, vision-steering agents at a three-way intersection depends on maneuverability, goal fixation and vision angle.
 authors:

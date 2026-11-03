@@ -4,6 +4,7 @@ date:           2023-07-20 00:01:00 +0100
 selected:       true
 pub:            "Physical Review Research"
 pub_date:       "5, 033054 (2023)"
+# cover:          /assets/images/covers/2023-abp-curved-surfaces.jpg   # uncomment once the image is added
 abstract: >-
   Curvature introduces a new time scale for active Brownian particles on a sphere and narrows the regime of motility-induced phase separation, with implications for bacteria in porous media.
 authors:
