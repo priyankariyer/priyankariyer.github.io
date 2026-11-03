@@ -4,7 +4,6 @@ date:           2024-04-24 00:01:00 +0100
 selected:       false
 pub:            "Scientific Reports"
 pub_date:       "14, 9443 (2024)"
-# cover:          /assets/images/covers/2024-inter-particle-distances.jpg   # uncomment once the image is added
 abstract: >-
   Vision-based steering rules allow crowds of intelligent active particles to regulate their mutual distances.
 authors:

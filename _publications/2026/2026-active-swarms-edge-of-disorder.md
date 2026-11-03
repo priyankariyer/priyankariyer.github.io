@@ -4,7 +4,6 @@ date:           2026-01-15 00:01:00 +0100
 selected:       true
 pub:            "Communications Physics"
 pub_date:       "9, 37 (2026)"
-# cover:          /assets/images/covers/2026-active-swarms-edge-of-disorder.jpg   # uncomment once the image is added
 abstract: >-
   A local avoidance interaction drives an order&ndash;disorder transition in a minimal flocking model, with a universality class distinct from the Vicsek transition.
 authors:

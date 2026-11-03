@@ -5,7 +5,6 @@ selected:       false
 pub_pre:        "Preprint, "
 pub:            "arXiv:2606.24547"
 pub_date:       "2026"
-# cover:          /assets/images/covers/2026-intelligent-active-particles-review.jpg   # uncomment once the image is added
 abstract: >-
   A review of active particles that sense, process information and steer &mdash; from swarms and flocks to predator&ndash;prey dynamics and navigation in complex environments.
 authors:

@@ -4,7 +4,6 @@ date:           2026-06-15 00:01:00 +0100
 selected:       false
 pub:            "Scientific Reports"
 pub_date:       "16 (2026)"
-# cover:          /assets/images/covers/2026-active-intruder.jpg   # uncomment once the image is added
 abstract: >-
   A self-steering intruder navigating a dense crowd of vision-steering agents, relevant to emergency personnel moving through semi-dense human crowds.
 authors:
