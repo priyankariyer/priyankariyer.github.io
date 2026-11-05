@@ -5,6 +5,16 @@ navbar_title: Showcase
 container_class: container-xl
 ---
 
+<div class="my-5 py-5 bg-white shadow-sm rounded-xl text-center">
+    <i class="fas fa-hard-hat fa-3x text-muted mb-3"></i>
+    <h2 class="mb-2">Under construction</h2>
+    <p class="text-muted mb-0">This page is coming soon. Please check back later.</p>
+</div>
+
+{% comment %}
+Original showcase grid. To restore the page, delete the "Under construction" block above
+and remove the comment tags around this section. Cards live in the _showcase/ folder.
+
 {% assign cards_by_group = site.showcase | sort: "date" | reverse | where: "show", true | group_by_exp: "item", "item.group" %}
 
 {% for group in cards_by_group %}
@@ -30,3 +40,4 @@ container_class: container-xl
     {% endfor %}
 </div>
 {% endfor %}
+{% endcomment %}
